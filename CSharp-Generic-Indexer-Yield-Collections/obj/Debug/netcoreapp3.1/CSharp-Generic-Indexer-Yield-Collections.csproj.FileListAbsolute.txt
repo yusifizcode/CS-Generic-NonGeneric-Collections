@@ -1,0 +1,14 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\bin\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\bin\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\bin\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\bin\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\bin\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\bin\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\obj\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\obj\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\obj\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\obj\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\obj\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\obj\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\obj\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Generic-Indexer-Yield-Collections\CSharp-Generic-Indexer-Yield-Collections\obj\Debug\netcoreapp3.1\CSharp-Generic-Indexer-Yield-Collections.genruntimeconfig.cache
